@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "b94908e70b8dd816",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eeab547789aa64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52055d18c7fd1599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "什么是数据库（Database）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "什么是数据库（Database）"
+            }
+          },
+          {
+            "id": "dede2c5c6063c27f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库基础的三级结构模式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库基础的三级结构模式"
+            }
+          },
+          {
+            "id": "f9e3a199ba0ca62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 数据库基础/1.1 什么是数据库（Database）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 什么是数据库（Database）"
+            }
+          },
+          {
+            "id": "a85e28b84515cf6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 关系数据库/2.1 关系模型基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 关系模型基础"
+            }
+          },
+          {
+            "id": "47633dd6aa707fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 关系数据库/2.2 关系代数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 关系代数"
+            }
+          },
+          {
+            "id": "5a811bedaabc8e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 关系数据库/2.3 关系完整性约束.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 关系完整性约束"
+            }
+          },
+          {
+            "id": "fb594fd7ec0f4a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 数据库编程/5.4 T—SQL语言简介.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.4 T—SQL语言简介"
+            }
+          },
+          {
+            "id": "f3797729f76a1e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 数据库的存储结构与查询处理/6.1 文件组织与记录组织.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 文件组织与记录组织"
+            }
+          },
+          {
+            "id": "ca37f2ffe9ccbed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 数据库的存储结构与查询处理/6.2 索引与散列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2 索引与散列"
+            }
+          },
+          {
+            "id": "6a6f275d823e2a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 数据库的存储结构与查询处理/6.3 查询处理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.3 查询处理"
+            }
+          },
+          {
+            "id": "94d20fbc866de6fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51cc0e9534af46d1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c94804b975d3695a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "e1f38ec16fa930db",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "89066c3dcf2f8cb3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1bb2c6252a7313e9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "72d9f56eb42bee5a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8fa63fcb87d87038",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b570d2c07070367f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f1f4e9d4284e94fc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "94d20fbc866de6fa",
+  "lastOpenFiles": [
+    "3. 结构化查询语言/3.3 数据操作语言（DML）/3.3.1 SELECT（查询数据）.md",
+    "3. 结构化查询语言/3.4 数据控制语言（DCL）/3.4.2 REVOKE（撤销权限）.md",
+    "3. 结构化查询语言/3.4 数据控制语言（DCL）/3.4.1 GRANT（授予权限）.md",
+    "3. 结构化查询语言/3.3 数据操作语言（DML）/3.3.4 DELECT（删除数据）.md",
+    "3. 结构化查询语言/3.3 数据操作语言（DML）/3.3.3 UPDATE（更新数据）.md",
+    "3. 结构化查询语言/3.3 数据操作语言（DML）/3.3.2 INSERT（插入数据）.md",
+    "6. 数据库的存储结构与查询处理/6.4 查询优化.md",
+    "6. 数据库的存储结构与查询处理/6.3 查询处理.md",
+    "6. 数据库的存储结构与查询处理/6.2 索引与散列.md",
+    "6. 数据库的存储结构与查询处理/6.1 文件组织与记录组织.md",
+    "8. 事务管理与恢复/8.3 恢复与备份.md",
+    "8. 事务管理与恢复/8.2 并发控制.md",
+    "8. 事务管理与恢复/8.1 事务.md",
+    "7. 数据库安全性与完整性/7.3 数据库应用与安全设计.md",
+    "7. 数据库安全性与完整性/7.2 数据库完整性.md",
+    "7. 数据库安全性与完整性/7.1 数据库安全性.md",
+    "7. 数据库安全性与完整性",
+    "5. 数据库编程/5.4 T—SQL语言简介.md",
+    "6. 数据库的存储结构与查询处理",
+    "5. 数据库编程/5.3 游标.md",
+    "5. 数据库编程/5.2 存储过程.md",
+    "5. 数据库编程/5.1 触发器（Trigger）.md",
+    "3. 结构化查询语言/3.2 数据定义语言（DDL）/3.2.7 DROP INDEX：删除索引.md",
+    "3. 结构化查询语言/3.2 数据定义语言（DDL）/3.2.6 CREATE INDEX：创建索引.md",
+    "3. 结构化查询语言/3.2 数据定义语言（DDL）/3.2.4 CREATE VIEW ：创建视图.md",
+    "3. 结构化查询语言/3.2 数据定义语言（DDL）/3.2.5 DROP VIEW：删除视图.md",
+    "3. 结构化查询语言/3.2 数据定义语言（DDL）/3.2.3 DROP TABLE：删除表.md",
+    "3. 结构化查询语言/3.2 数据定义语言（DDL）/3.2.2 ALTER TABLE ：修改表结构.md",
+    "8. 事务管理与恢复/6.7 并发控制",
+    "8. 事务管理与恢复",
+    "5. 数据库编程",
+    "4. 数据库设计/4.3 关系数据库的规范化理论",
+    "4. 数据库设计/4.2 概念结构设计：实体-关系模型（E-R）",
+    "4. 数据库设计/4.1 数据库设计方法与步骤",
+    "4. 数据库设计",
+    "3. 结构化查询语言/3.4 数据控制语言（DCL）",
+    "什么是数据库（Database）.canvas"
+  ]
+}
